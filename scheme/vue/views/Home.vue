@@ -73,7 +73,7 @@ colleges around the world.</h1>
   
 
   <div class="services">
-    <h1>Services We Offer?</h1>
+    <h1>We offer the following services:</h1>
     <div class="services-one">
 
       <div class="services-one-one"  

@@ -10137,7 +10137,7 @@ var render = function () {
       _vm._m(2),
       _vm._v(" "),
       _c("div", { staticClass: "services" }, [
-        _c("h1", [_vm._v("Services We Offer?")]),
+        _c("h1", [_vm._v("We offer the following services:")]),
         _vm._v(" "),
         _c("div", { staticClass: "services-one" }, [
           _c("div", { staticClass: "services-one-one" }, [
