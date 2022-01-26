@@ -15,13 +15,25 @@
       <div class="contact-detail-one">
       <div class="phone-number">
           <h1>Contact info</h1>
+          <h3>RWANDA</h3>
+          <br><br>
           <p> <span class="fa fa-phone"></span> +250788307538 | +250788304387</p>
           <p>  <span class="fa fa-envelope"></span> info@uscworldeducation.com</p>
           <br>
           <hr>
           <h4>Opening hours</h4>
           <p>Monday - Friday — 8:00 AM - 05:00 PM</p>
+          <br><br>
+          <h3>BURUNDI</h3>
+          <br><br>
+          <p> <span class="fa fa-phone"></span> +2772091979 | +27775904215</p>
+          <p>  <span class="fa fa-envelope"></span> uscburundieducation@gmail.com</p>
+          <br>
+          <hr>
+          <h4>Opening hours</h4>
+          <p>Monday - Friday — 8:00 AM - 05:00 PM</p>
       </div>
+      
       <div class="contact-us">
           <h1>Contact Us</h1>
               <label for="names">First Name*</label>
