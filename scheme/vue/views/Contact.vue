@@ -26,7 +26,7 @@
           <br><br>
           <h3>BURUNDI</h3>
           <br><br>
-          <p> <span class="fa fa-phone"></span> +2772091979 | +27775904215</p>
+          <p> <span class="fa fa-phone"></span> +25772091979 | +257775904215</p>
           <p>  <span class="fa fa-envelope"></span> uscburundieducation@gmail.com</p>
           <br>
           <hr>
