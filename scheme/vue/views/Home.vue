@@ -128,6 +128,13 @@ colleges around the world.</h1>
     </div>
     </div>
     <div>
+    <div class="social-media">
+      <div>
+<div class="elfsight-app-02671c66-f6e2-4405-811e-2914562cfdd3"></div></div>
+      <div>hello</div>
+      <div>hello</div>
+    </div>
+
     <div class="testimonial">
       
       <div class="testimonial-bg">
@@ -214,7 +221,6 @@ BA BUSINESS STUDENT</p>
   
 
 </template>
-
 <script>
 import Footer from '../components/Footer.vue'
 import Product from '../components/Product.vue'
@@ -241,6 +247,7 @@ mounted(){
 
 
 <style scoped>
+
 .modal-close{
   cursor: pointer;
 }
@@ -627,6 +634,12 @@ background-image: linear-gradient(to right, #d4d6d7 , #ebecec);
 .offer .text-two{
   padding-top: 20vh;
   padding-right: 10vh;
+}
+.social-media{
+  display: grid;
+  grid-template-columns: 30% 30% 30%;
+  
+  
 }
 @media screen and (max-width: 1120px){
   .modal-close{
