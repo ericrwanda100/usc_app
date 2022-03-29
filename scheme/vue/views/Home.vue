@@ -96,8 +96,7 @@ colleges around the world.</h1>
     <h1>We offer the following services:</h1>
     <div class="services-one">
 
-      <div class="services-one-one"  
-      >
+      <div class="services-one-one">
         <span><i class="fa fa-codepen"></i></span>
         <h4>School Orientation Program</h4>
         <p>It is one thing to have or wishing to study in any country, but how
@@ -685,6 +684,7 @@ background-image: linear-gradient(to right, #d4d6d7 , #ebecec);
   
   
 }
+
 @media screen and (max-width: 1120px){
   .modal-close{
   cursor: pointer;
@@ -3367,7 +3367,7 @@ background-image: linear-gradient(to right, #d4d6d7 , #ebecec);
 .services h1{
    font-size: 25px;
    opacity: 0.8;
-   margin-top: 50vh;
+   margin-top: 0vh;
    }
    .testimonial-header p{
      font-size: 18px;
@@ -3612,6 +3612,38 @@ background-image: linear-gradient(to right, #d4d6d7 , #ebecec);
    .footer{
      margin-top: -0vh;
    }
+   .box-event-title{
+     margin-top: 15vh;
+   }
+   .box-event-apply button {
+    -webkit-appearance: button;
+    background: #d8172e;
+    height: 30px;
+    width: 150px;
+    font-size: 16px;
+    color: white;
+    border-radius: 20px;
+}
+.box-event-apply a{
+}
+.box-event-title h1{
+  opacity: 0.8;
+  font-size: 30px;
+  padding-top:4vh;
+}
+.box-event{
+display: flex;
+flex-direction: column;
+}
+.box-event .box-event-two img{
+  width: 80%;
+  margin-left: 10vh;
+}
+.box-event-one {
+  padding: 4vh;
+  padding-left: 15vh;
+}
+
 
    }
 
