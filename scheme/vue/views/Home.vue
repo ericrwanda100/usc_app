@@ -53,7 +53,7 @@ colleges around the world.</h1>
     </div>
   </div>
   <div class="directors-all">
-    <h1>The Director's Message</h1>
+    <h1>The Director's Messages</h1>
     <div class="director-message">
     <div class="image">
       <img src="/assets/myimages/boss1.png" alt="">
@@ -128,13 +128,6 @@ colleges around the world.</h1>
     </div>
     </div>
     <div>
-    <div class="social-media">
-      <div>
-<div class="elfsight-app-02671c66-f6e2-4405-811e-2914562cfdd3"></div></div>
-      <div>hello</div>
-      <div>hello</div>
-    </div>
-
     <div class="testimonial">
       
       <div class="testimonial-bg">
