@@ -53,7 +53,7 @@ colleges around the world.</h1>
     </div>
   </div>
   <div class="directors-all">
-    <h1>The Director's Messages</h1>
+    <h1>The Director's Message</h1>
     <div class="director-message">
     <div class="image">
       <img src="/assets/myimages/boss1.png" alt="">
