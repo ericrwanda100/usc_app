@@ -81,7 +81,7 @@ colleges around the world.</h1>
     <li>On spot admissions</li>
     <li>Meet different educators From abroad</li>
     <li>Opportunity for partial scholarship</li>
-    <li>meet & connect directly with schools & univerties abroad.</li>
+    <li>meet & connect directly with schools & universities abroad.</li>
   </ul>
 
   <div class="box-event-apply">
