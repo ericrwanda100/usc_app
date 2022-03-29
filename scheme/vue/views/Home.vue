@@ -73,7 +73,7 @@ colleges around the world.</h1>
   </div>
   
   <div class="box-event-title">
-    <center> <h1>Upcaming Event</h1></center>
+    <center> <h1>Upcoming Event</h1></center>
 <div class="box-event"> 
   <div class="box-event-one"><h2> Physical Education Fair </h2>
   <h3>Student Benefits</h3>
