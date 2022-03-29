@@ -52,6 +52,7 @@ colleges around the world.</h1>
       <img src="/assets/myimages/1.png" alt="">
     </div>
   </div>
+
   <div class="directors-all">
     <h1>The Director's Message</h1>
     <div class="director-message">
@@ -71,6 +72,25 @@ colleges around the world.</h1>
     </div>
   </div>
   
+  <div class="box-event-title">
+    <center> <h1>Upcaming Event</h1></center>
+<div class="box-event"> 
+  <div class="box-event-one"><h2> Physical Education Fair </h2>
+  <h3>Student Benefits</h3>
+  <ul>
+    <li>On spot admissions</li>
+    <li>Meet different educators From abroad</li>
+    <li>Opportunity for partial scholarship</li>
+    <li>meet & connect directly with schools & univerties abroad.</li>
+  </ul>
+
+  <div class="box-event-apply">
+  <button><a href="https://docs.google.com/forms/d/e/1FAIpQLSfJGnD48gIt-mgoNPgZ_g9gHwWr15hHiAa0Y_VR0Q_PVOgjeQ/viewform?usp=sf_link" class="button-event">Apply Now</a></button>
+  </div>
+  </div>
+  <div class="box-event-two"><img src="/assets/myimages/Education_Fair.jpg" alt=""></div>
+</div>
+</div>
 
   <div class="services">
     <h1>We offer the following services:</h1>
@@ -240,6 +260,37 @@ mounted(){
 
 
 <style scoped>
+
+.box-event-apply button {
+    -webkit-appearance: button;
+    background: #d8172e;
+    height: 40px;
+    width: 200px;
+    font-size: 18px;
+    color: white;
+    border-radius: 20px;
+}
+.box-event-apply a{
+  color: white;
+}
+.box-event-title h1{
+  opacity: 0.8;
+  font-size: 40px;
+  padding-top:4vh;
+}
+.box-event{
+display: grid;
+grid-template-columns: 50% 50%;
+margin-bottom: 5vh;
+}
+.box-event .box-event-two img{
+  width: 60%;
+}
+.box-event-one {
+  padding: 14vh;
+  padding-left: 15vh;
+}
+
 
 .modal-close{
   cursor: pointer;
