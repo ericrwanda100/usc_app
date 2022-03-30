@@ -12,6 +12,36 @@
           </div>
       </div>
       </div>
+      <div class="upcoming-event">
+      <h1>Upcoming Events</h1>
+      </div>
+
+ <div class="event-one">
+
+          <div class="event-one-one">
+          <div class="image">
+              <img src="/assets/myimages/Education_Fair.jpg" alt="">
+          </div>
+          <div class="text">
+              <h3>Pyhsical Education Fair</h3>
+              <p>9pm-12pm | 7-6 MAY 2022</p>
+              <br>
+
+              <p>6-7 MAY, 09:00 – 12:00 EAT
+              Location: Kigali Marriott Hotel
+               Rwanda-Kigali</p>
+
+               <button>LEARN MORE</button>
+               
+          </div>
+          </div>
+          
+
+      </div>
+
+    <div class="event-header">
+        <h1>Latest Events</h1>
+    </div>
 
       <div class="event-one">
 
@@ -66,6 +96,14 @@ export default {
 </script>
 
 <style scoope>
+.upcoming-event h1{
+    padding-left: 18vh;
+    font-size: 40px;
+}
+.event-header h1{
+    padding-left: 18vh;
+    font-size: 40px;
+}
 .event .header{
     background: #0c1f3e;
     width: 100%;
@@ -89,7 +127,7 @@ export default {
 }
 .event-one{
     display: grid;
-    grid-template-columns: 30% 30%;
+    grid-template-columns: 35% 35%;
     column-gap: 3%;
     padding: 10vh;
     padding-left: 20vh;
@@ -98,8 +136,12 @@ export default {
 .event-one  .event-one-one .image img{
     width: 100%;
 }
+.event-one  .text h3{
+    font-size: 20px;
+    font-weight: 600;
+}
 .event-one  .event-one-one .text {
-    transform: translateY(-20px);
+    transform: translateY(-80px);
     padding: 20px;
     width: 100%;
     background: white;
@@ -112,15 +154,15 @@ export default {
 }
 
 .event-one .event-one-one:hover .text{
-    transform: translateY(-130px);
+    transform: translateY(-200px);
     transition: ease-in-out 1s all;
 }
 .event-one .event-one-one:hover .text button{
-    width: 100px;
-    height: 30px;
+    width: 150px;
+    height: 40px;
     background: #d8172e;
     border-color: #d8172e;
-    margin-left: 15vh;
+    margin-left: 10vh;
     color: white;
     font-size: 16px;
 }
@@ -356,7 +398,7 @@ export default {
     display: flex;
     flex-direction: column;
     column-gap: 3%;
-    padding: 10vh;
+    padding: 0vh;
     padding-left: 2vh;
     padding-right: 2vh;
 }
@@ -365,7 +407,7 @@ export default {
 }
 .event-one  .event-one-one .text {
     transform: translateY(-20px);
-    padding: 20px;
+    padding: 0px;
     width: 100%;
     background: white;
     border: 1px solid grey;

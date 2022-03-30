@@ -25,7 +25,7 @@
 
           <div class="text">
               <div class="image">
-              <img src="/assets/myimages/trine.jpg" alt="">
+              <img src="/assets/myimages/south dakota.jpg" alt="">
               </div>
               <div class="text-one">
                   <h2>Why Choose South Dakota University?</h2>
@@ -52,7 +52,7 @@ all the tools you need to turn your dreams into reality.
 
           <div class="text">
               <div class="image">
-              <img src="/assets/myimages/trine.jpg" alt="">
+              <img src="/assets/myimages/University_Florida_International.jpg" alt="">
               </div>
               <div class="text-one">
                   <h2>Why Choose Florida international University?</h2>
@@ -104,7 +104,7 @@ it's accomodation is very affordable.
 
           <div class="text">
               <div class="image">
-              <img src="/assets/myimages/trine.jpg" alt="">
+              <img src="/assets/myimages/sunny.jpg" alt="">
               </div>
               <div class="text-one">
                   <h2>Why Choose SUNY Polytechnic Institute?</h2>
@@ -125,12 +125,12 @@ it's accomodation is very affordable.
 
            <div class="country-one">
           <div class="image4">
-              <center><img src="/assets/myimages/westcliff.jpg" alt=""></center>
+              <center><img src="/assets/myimages/westcliff.png" alt=""></center>
           </div>
 
           <div class="text">
               <div class="image">
-              <img src="/assets/myimages/trine.jpg" alt="">
+              <img src="/assets/myimages/westcliff.jpg" alt="">
               </div>
               <div class="text-one">
                   <h2>Why Choose Westcliff University?</h2>
@@ -156,7 +156,7 @@ located heart of southern California sarrounded by scenic mountains and ocean vi
 
           <div class="text">
               <div class="image">
-              <img src="/assets/myimages/trine.jpg" alt="">
+              <img src="/assets/myimages/ASA-College-New-York.jpg" alt="">
               </div>
               <div class="text-one">
                   <h2>Why Choose ASA College?</h2>
