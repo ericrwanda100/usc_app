@@ -25,7 +25,7 @@
 
           <div class="text">
               <div class="image">
-              <img src="/assets/myimages/trine.jpg" alt="">
+              <img src="/assets/myimages/CBU-Header-ABOUT.jpg" alt="">
               </div>
               <div class="text-one">
                   <h2>Why Choose Cape Breton University?</h2>
@@ -50,7 +50,7 @@
 
           <div class="text">
               <div class="image">
-              <img src="/assets/myimages/trine.jpg" alt="">
+              <img src="/assets/myimages/pacific_link.jpg" alt="">
               </div>
               <div class="text-one">
                   <h2>Why Choose Pacific Link College?</h2>
@@ -74,7 +74,7 @@
 
           <div class="text">
               <div class="image">
-              <img src="/assets/myimages/trine.jpg" alt="">
+              <img src="/assets/myimages/universite-de-moncton-campus-shippagan.jpg" alt="">
               </div>
               <div class="text-one">
                   <h2>Why Choose University de Moncton?</h2>
@@ -99,7 +99,7 @@
 
           <div class="text">
               <div class="image">
-              <img src="/assets/myimages/trine.jpg" alt="">
+              <img src="/assets/myimages/1533628052phpRjQ7Ip.jpeg" alt="">
               </div>
               <div class="text-one">
                   <h2>Why Choose Fanshawe College?</h2>
@@ -125,7 +125,7 @@
 
           <div class="text">
               <div class="image">
-              <img src="/assets/myimages/trine.jpg" alt="">
+              <img src="/assets/myimages/kings_one.jpg" alt="">
               </div>
               <div class="text-one">
                   <h2>Why Choose Kings University?</h2>
@@ -149,7 +149,7 @@
 
           <div class="text">
               <div class="image">
-              <img src="/assets/myimages/trine.jpg" alt="">
+              <img src="/assets/myimages/canada_one.jpeg" alt="">
               </div>
               <div class="text-one">
                   <h2>Why Choose Canada College?</h2>
@@ -174,7 +174,7 @@
 
           <div class="text">
               <div class="image">
-              <img src="/assets/myimages/trine.jpg" alt="">
+              <img src="/assets/myimages/ucw.jpg" alt="">
               </div>
               <div class="text-one">
                   <h2>Why Choose University Canada West?</h2>

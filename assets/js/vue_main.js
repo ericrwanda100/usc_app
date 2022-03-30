@@ -9110,7 +9110,9 @@ var staticRenderFns = [
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "text" }, [
       _c("div", { staticClass: "image" }, [
-        _c("img", { attrs: { src: "/assets/myimages/trine.jpg", alt: "" } }),
+        _c("img", {
+          attrs: { src: "/assets/myimages/CBU-Header-ABOUT.jpg", alt: "" },
+        }),
       ]),
       _vm._v(" "),
       _c("div", { staticClass: "text-one" }, [
@@ -9153,7 +9155,9 @@ var staticRenderFns = [
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "text" }, [
       _c("div", { staticClass: "image" }, [
-        _c("img", { attrs: { src: "/assets/myimages/trine.jpg", alt: "" } }),
+        _c("img", {
+          attrs: { src: "/assets/myimages/pacific_link.jpg", alt: "" },
+        }),
       ]),
       _vm._v(" "),
       _c("div", { staticClass: "text-one" }, [
@@ -9189,7 +9193,12 @@ var staticRenderFns = [
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "text" }, [
       _c("div", { staticClass: "image" }, [
-        _c("img", { attrs: { src: "/assets/myimages/trine.jpg", alt: "" } }),
+        _c("img", {
+          attrs: {
+            src: "/assets/myimages/universite-de-moncton-campus-shippagan.jpg",
+            alt: "",
+          },
+        }),
       ]),
       _vm._v(" "),
       _c("div", { staticClass: "text-one" }, [
@@ -9231,7 +9240,9 @@ var staticRenderFns = [
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "text" }, [
       _c("div", { staticClass: "image" }, [
-        _c("img", { attrs: { src: "/assets/myimages/trine.jpg", alt: "" } }),
+        _c("img", {
+          attrs: { src: "/assets/myimages/1533628052phpRjQ7Ip.jpeg", alt: "" },
+        }),
       ]),
       _vm._v(" "),
       _c("div", { staticClass: "text-one" }, [
@@ -9275,7 +9286,9 @@ var staticRenderFns = [
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "text" }, [
       _c("div", { staticClass: "image" }, [
-        _c("img", { attrs: { src: "/assets/myimages/trine.jpg", alt: "" } }),
+        _c("img", {
+          attrs: { src: "/assets/myimages/kings_one.jpg", alt: "" },
+        }),
       ]),
       _vm._v(" "),
       _c("div", { staticClass: "text-one" }, [
@@ -9315,7 +9328,9 @@ var staticRenderFns = [
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "text" }, [
       _c("div", { staticClass: "image" }, [
-        _c("img", { attrs: { src: "/assets/myimages/trine.jpg", alt: "" } }),
+        _c("img", {
+          attrs: { src: "/assets/myimages/canada_one.jpeg", alt: "" },
+        }),
       ]),
       _vm._v(" "),
       _c("div", { staticClass: "text-one" }, [
@@ -9359,7 +9374,7 @@ var staticRenderFns = [
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "text" }, [
       _c("div", { staticClass: "image" }, [
-        _c("img", { attrs: { src: "/assets/myimages/trine.jpg", alt: "" } }),
+        _c("img", { attrs: { src: "/assets/myimages/ucw.jpg", alt: "" } }),
       ]),
       _vm._v(" "),
       _c("div", { staticClass: "text-one" }, [
