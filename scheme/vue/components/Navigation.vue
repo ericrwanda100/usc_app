@@ -11,6 +11,7 @@
     <div class="nav">
       <ul>
         <li><router-link to="/" class="link">Home</router-link></li>
+        <li><router-link to="Event" class="link">Events</router-link></li>
         <li><router-link to="Services" class="link">Services</router-link></li>
         <li><router-link to="About" class="link">About Us</router-link></li>
         <li><router-link to="Contact" class="link">Contact Us</router-link></li>
@@ -26,7 +27,6 @@
         </li>
   
         <li><router-link to="Gallery" class="link">Gallery</router-link></li>
-        <li><router-link to="Event" class="link">Events</router-link></li>
       </ul> 
     </div>
 

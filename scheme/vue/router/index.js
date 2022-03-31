@@ -12,6 +12,7 @@ import Cananda from "../views/Cananda.vue";
 import Gallery from "../views/Gallery.vue";
 import Test from "../views/Test.vue";
 import Modal from "../views/Modal.vue";
+import Physical_education_fair from "../views/Physical_education_fair.vue"
 import Product from "../components/Product.vue";
 import PageNotFound from "../views/PageNotFound.vue";
 // import NotFound from "../views/NotFound.vue";
@@ -28,6 +29,11 @@ const routes = [
     path: "/Product",
     name: "Product",
     component: Product,
+  },
+  {
+    path: "/Physical_education_fair",
+    name: "Physical_education_fair",
+    component: Physical_education_fair,
   },
   {
     path: "/about",

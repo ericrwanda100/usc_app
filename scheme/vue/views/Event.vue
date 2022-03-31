@@ -31,7 +31,7 @@
               Location: Kigali Marriott Hotel
                Rwanda-Kigali</p>
 
-               <button>LEARN MORE</button>
+               <button><router-link to="Physical_education_fair" class="link">View More</router-link></button>
                
           </div>
           </div>
@@ -156,6 +156,10 @@ export default {
 .event-one .event-one-one:hover .text{
     transform: translateY(-200px);
     transition: ease-in-out 1s all;
+}
+.event-one .event-one-one:hover .text button .link{
+    text-decoration: none;
+    color: white;
 }
 .event-one .event-one-one:hover .text button{
     width: 150px;
