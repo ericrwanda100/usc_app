@@ -12,6 +12,14 @@
           </div>
       </div>
       </div>
+      <div class="about">
+          <p><b>USC</b> is an international education consulting firm that represents different universities, 
+              colleges and schools around the worlds. USC works closely with universities, 
+              colleges and partners across the globe especially from develop countries mainly in Europe,
+               Canada, Australia, its core responsibility is to play an intermediate role that builds bridge
+                between African dreamers (students from Africa) whom their dream is to pursue affordable
+               and quality education from world-class universities and colleges from developed countries. </p>
+      </div>
       <div class="upcoming-event">
       <h1>Upcoming Events</h1>
       </div>
@@ -96,6 +104,14 @@ export default {
 </script>
 
 <style scoope>
+.about p{
+    padding-right: 20vh;
+    padding-left: 20vh;
+    padding-bottom: 4vh;
+    text-align: justify;
+    font-size: 18px;
+
+}
 .upcoming-event h1{
     padding-left: 18vh;
     font-size: 40px;

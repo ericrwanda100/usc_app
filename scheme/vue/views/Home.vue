@@ -9,7 +9,7 @@
     </div>
     <hr>
     <p>Dear Visitors, Parents, Guardians, Students and families, I personally welcome you all to our site; 
-      It’s my please and honor to be at your service. Thank you and congratulations for choosing us; you’ve made 
+      It’s is my pleasure and honor to be at your service. Thank you and congratulations for choosing us; you’ve made 
       one of the right choices towards your paths. “We choose affordability and quality”. We are here to make
        a difference in overseas student's recruitment business; helping young scholars and their families to 
        get the best, high quality and affordable education.<br><br>
