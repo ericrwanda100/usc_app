@@ -66,7 +66,7 @@ export default{
 }
 </script>
 
-<style scoped>
+<style scoope>
 .about-one{
   background: #0c1f3e;
   width: 100%;

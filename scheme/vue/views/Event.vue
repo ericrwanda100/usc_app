@@ -103,7 +103,7 @@ export default {
 }
 </script>
 
-<style scoope>
+<style scoped>
 .about p{
     padding-right: 20vh;
     padding-left: 20vh;

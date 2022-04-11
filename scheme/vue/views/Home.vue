@@ -1,5 +1,20 @@
 <template>
   <div class="home">
+    <div class="banner">
+
+      <video autoplay muted loop>
+        <source src="/assets/myimages/videoplayback_2.mp4" type="video/mp4 " class="video">
+      </video>
+      <div class="text">
+        <div>
+      <h1>Linking young scholars to the most affordable and quality schools and
+       colleges around the world.</h1>
+      <p>For more information</p>
+      <button><router-link to="Contact" class="link">Contact Us</router-link></button>
+       </div>
+      </div>
+
+    </div>
     <div class="modal-modal">
     
   <div class="bg-now">
@@ -28,7 +43,7 @@ the process.
  <b>Ismael NIYOMURINZI</b><br> <br> <i> (Director-Cooperate and partnerships)<br> BA Hospitality management <br> MBA-Marketing <br>
  Hons.Doctor – Philosophy in Business Administration</i></p></div>
   </div>
-  <div class="slide">
+  <!-- <div class="slide">
     <div class="text"  data-aos="fade-right"
     data-aos-offset="200"
     data-aos-delay="50"
@@ -51,7 +66,7 @@ colleges around the world.</h1>
     >
       <img src="/assets/myimages/1.png" alt="">
     </div>
-  </div>
+  </div> -->
 
   <div class="directors-all">
     <h1>The Director's Message</h1>
@@ -259,6 +274,46 @@ mounted(){
 
 
 <style scoped>
+.banner{
+  display: grid;
+  grid-template-columns: 100%;
+}
+.banner .text{
+  display: grid;
+  grid-auto-columns: 50%;
+  margin-top: -55vh;
+  margin-left: 40px;
+  
+}
+.banner h1{
+  background: #0c1f3e;
+  height: 140px;
+  padding: 3vh;
+  color: white;
+  border-end-end-radius: 20px;
+}
+.banner .text p{
+  font-size: 20px;
+  font-weight: 400;
+}
+.banner .text button{
+  width: 200px; 
+  height: 40px;
+  background: #d8172e;
+  color: white;
+  border-radius: 20px;
+  border-color: #d8172e;
+}
+.banner .text .link {
+  color: white;
+  text-decoration: none;
+}
+.banner video{
+  width:100%;
+  margin-top: -20vh;
+  position: relative;
+  z-index: -1;
+}
 
 .box-event-apply button {
     -webkit-appearance: button;
@@ -340,9 +395,9 @@ margin-bottom: 5vh;
     z-index: 99;
 }
 .home{
-  width: 100%;
+  /* width: 100%;
   height: 800px;
-  background: #0c1f3e;
+  background: #0c1f3e; */
 }
 .slide .text h1{
   color: white;
@@ -390,7 +445,7 @@ background-image: linear-gradient(to right, #d4d6d7 , #ebecec);
    height: 420px;
    width: 100%;
    position: relative;
-   margin-top: -190px;
+   margin-top: 0px;
 }
 .directors-all h1{
   font-size: 40px;
