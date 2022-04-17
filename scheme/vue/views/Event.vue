@@ -12,13 +12,19 @@
           </div>
       </div>
       </div>
+
       <div class="about">
-          <p><b>USC</b> is an international education consulting firm that represents different universities, 
-              colleges and schools around the worlds. USC works closely with universities, 
-              colleges and partners across the globe especially from develop countries mainly in Europe,
-               Canada, Australia, its core responsibility is to play an intermediate role that builds bridge
-                between African dreamers (students from Africa) whom their dream is to pursue affordable
-               and quality education from world-class universities and colleges from developed countries. </p>
+          <p>United Scholars Center Events are the world's leading international education networking 
+              conferences.We invite international schools to meet with students.  Where each student
+               is welcome to ask any question and receive an immediate response.</p>
+               <h3>Students Benefits</h3>
+               <ul>
+                   <li>On spot admissions</li>
+                   <li>Meet different educatorsfrom abroad</li>
+                   <li>Meet Decision makers from abroad</li>
+                   <li>Opportunity for partial scholarship</li>
+                   <li>Meet & connect directly with schools & universities abraod.</li>
+               </ul>
       </div>
       <div class="upcoming-event">
       <h1>Upcoming Events</h1>
@@ -104,6 +110,12 @@ export default {
 </script>
 
 <style scoped>
+.about ul{
+    padding-left: 20vh;
+}
+.about h3{
+    padding-left: 20vh;
+}
 .about p{
     padding-right: 20vh;
     padding-left: 20vh;
