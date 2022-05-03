@@ -42,7 +42,7 @@
               <br>
 
               <p>6-7 MAY, 09:00 – 12:00 EAT
-              Location: Kigali Marriott Hotel
+              Location: Ubumwe Grande Hotel
                Rwanda-Kigali</p>
 
                <button><router-link to="Physical_education_fair" class="link">View More</router-link></button>

@@ -25,7 +25,7 @@
       <div class="education-fair-section">
           <h3>Time & Location</h3>
           <p>6th - 7th May, 09:30 – 12:30 EAT</p>
-          <p>Kigali Mariott Hotel</p>
+          <p>Ubumwe Grande Hotel</p>
           <h3>Student Benefit</h3>
           <ul>
               <li>On sport admissions</li>
