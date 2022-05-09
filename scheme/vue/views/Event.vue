@@ -26,13 +26,25 @@
                    <li>Meet & connect directly with schools & universities abraod.</li>
                </ul>
       </div>
-      <div class="upcoming-event">
+
+      <!-- <div class="upcoming-event">
       <h1>Upcoming Events</h1>
-      </div>
+      </div> -->
 
  <div class="event-one">
 
-          <div class="event-one-one">
+         
+          
+
+      </div>
+
+    <div class="event-header">
+        <h1>Latest Events</h1>
+    </div>
+
+      <div class="event-one">
+
+           <div class="event-one-one">
           <div class="image">
               <img src="/assets/myimages/Education_Fair.jpg" alt="">
           </div>
@@ -45,19 +57,10 @@
               Location: Ubumwe Grande Hotel
                Rwanda-Kigali</p>
 
-               <button><router-link to="Physical_education_fair" class="link">View More</router-link></button>
+               <!-- <button><router-link to="Physical_education_fair" class="link">View More</router-link></button> -->
                
           </div>
           </div>
-          
-
-      </div>
-
-    <div class="event-header">
-        <h1>Latest Events</h1>
-    </div>
-
-      <div class="event-one">
 
           <div class="event-one-one">
           <div class="image">
@@ -74,6 +77,8 @@
                <button>View More</button>
           </div>
           </div>
+
+
           <div class="event-one-one">
           <div class="image">
               <img src="/assets/myimages/4.jpg" alt="">
@@ -87,9 +92,7 @@
 Location: King's Conference Center
 Burundi-Bujumbura</p>
 <button>View More</button>
-          </div>
-
-          
+          </div>          
           </div>
 
       </div>
@@ -155,7 +158,7 @@ export default {
 }
 .event-one{
     display: grid;
-    grid-template-columns: 35% 35%;
+    grid-template-columns: 30% 30% 30%;
     column-gap: 3%;
     padding: 10vh;
     padding-left: 20vh;

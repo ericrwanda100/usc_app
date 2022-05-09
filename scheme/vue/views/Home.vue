@@ -87,7 +87,7 @@ colleges around the world.</h1>
     </div>
   </div>
   
-  <div class="box-event-title">
+  <!-- <div class="box-event-title">
     <center> <h1>Upcoming Event</h1></center>
 <div class="box-event"> 
   <div class="box-event-one"><h2> Physical Education Fair </h2>
@@ -105,7 +105,7 @@ colleges around the world.</h1>
   </div>
   <div class="box-event-two"><img src="/assets/myimages/Education_Fair.jpg" alt=""></div>
 </div>
-</div>
+</div> -->
 
   <div class="services">
     <h1>We offer the following services:</h1>

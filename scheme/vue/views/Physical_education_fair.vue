@@ -16,7 +16,7 @@
               <img src="/assets/myimages/Education_Fair.jpg" alt="">
           </div>
           <div class="education-fair-two">
-              <p> 6th-7th May 2022 |  Kigali Mariott Hotel</p>
+              <p> 6th-7th May 2022 |  Ubumwe Grande Hotel</p>
               <h3>PHYSICAL EDUCATION FAIR</h3>
               <p>If you're thinking about studying abroad, don't miss our Physical Education Fair.</p>
               <button><a href="https://forms.gle/iUDDvoh3vqJuerPw8"> Apply Now</a></button>
