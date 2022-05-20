@@ -14,13 +14,54 @@
       </div>
 
 <div class="gallery">
-
 <div class="gallery-one">
-    <img src="/assets/myimages/gallery/42.jpg" alt="">
+    <img src="/assets/myimages/gallery/DSC_4783.JPG" alt="">
   </div>
   <div class="gallery-one">
-    <img src="/assets/myimages/gallery/43.jpg" alt="">
+    <img src="/assets/myimages/gallery/DSC_4833.JPG" alt="">
   </div>
+  <div class="gallery-one">
+    <img src="/assets/myimages/gallery/DSC_4868.JPG" alt="">
+  </div>
+  <div class="gallery-one">
+    <img src="/assets/myimages/gallery/DSC_4926.JPG" alt="">
+  </div>
+  <div class="gallery-one">
+    <img src="/assets/myimages/gallery/DSC_4993.JPG" alt="">
+  </div>
+  <div class="gallery-one">
+    <img src="/assets/myimages/gallery/DSC_5018.JPG" alt="">
+  </div>
+
+<div class="gallery-one">
+    <img src="/assets/myimages/gallery/DSC_5022.JPG" alt="">
+  </div>
+  <div class="gallery-one">
+    <img src="/assets/myimages/gallery/DSC_5037.JPG" alt="">
+  </div>
+
+
+
+<div class="gallery-one">
+    <img src="/assets/myimages/gallery/DSC_5040.JPG" alt="">
+  </div>
+  <div class="gallery-one">
+    <img src="/assets/myimages/gallery/DSC_5048 - Copy.JPG" alt="">
+  </div>
+  <div class="gallery-one">
+    <img src="/assets/myimages/gallery/DSC_5053.JPG" alt="">
+  </div>
+  <div class="gallery-one">
+    <img src="/assets/myimages/gallery/DSC_5097.JPG" alt="">
+  </div>
+  <div class="gallery-one">
+    <img src="/assets/myimages/gallery/DSC_5103.JPG" alt="">
+  </div>
+  <div class="gallery-one">
+    <img src="/assets/myimages/gallery/DSC_5105.JPG" alt="">
+  </div>
+
+
   <div class="gallery-one">
     <img src="/assets/myimages/gallery/44.jpg" alt="">
   </div>
