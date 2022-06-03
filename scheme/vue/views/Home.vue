@@ -77,9 +77,7 @@ colleges around the world.</h1>
     <div class="text"
     
     >
-    <p>Dear Visitors, Parents, Guardians, Students and families, I personally welcome you all to our site; It’s is my pleasure and honor to be at your service. Thank you and congratulations for choosing us; you’ve made one the right chooses toward your paths.
-
-“We choose affordability and quality”. We are here to make a difference in oversee student recruitment business; helping young scholars and their families to get the best, quality and affordable education.</p>
+    <p> Dear Visitors, Parents, Guardians, Students and families, I personally welcome you all to our site; It’s is my pleasure and honor to be at your service. Thank you and congratulations for choosing us; you’ve made one of the right choices towards your paths. “We choose affordability and quality”. We are here to make a difference in overseas student's recruitment business; helping young scholars and their families to get the best, high quality and affordable education.</p>
 
 <button class="modal-btn">View message</button>
   
