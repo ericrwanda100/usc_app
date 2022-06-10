@@ -13,10 +13,10 @@
 
       <div class="education-fair">
           <div class="education-fair-one">
-              <img src="/assets/myimages/Education_Fair.jpg" alt="">
+              <img src="/assets/myimages/Education_Fair_one.jpg" alt="">
           </div>
           <div class="education-fair-two">
-              <p> 6th-7th May 2022 |  Ubumwe Grande Hotel</p>
+              <p> 16TH JUNE 2022 |  Ubumwe Grande Hotel</p>
               <h3>PHYSICAL EDUCATION FAIR</h3>
               <p>If you're thinking about studying abroad, don't miss our Physical Education Fair.</p>
               <button><a href="https://forms.gle/iUDDvoh3vqJuerPw8"> Apply Now</a></button>
@@ -24,7 +24,7 @@
       </div>
       <div class="education-fair-section">
           <h3>Time & Location</h3>
-          <p>6th - 7th May, 09:30 – 12:30 EAT</p>
+          <p>16 JUNE, 09:30 – 12:30 EAT</p>
           <p>Ubumwe Grande Hotel</p>
           <h3>Student Benefit</h3>
           <ul>

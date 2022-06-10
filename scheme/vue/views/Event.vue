@@ -27,14 +27,30 @@
                </ul>
       </div>
 
-      <!-- <div class="upcoming-event">
+      <div class="upcoming-event">
       <h1>Upcoming Events</h1>
-      </div> -->
+      </div>
 
  <div class="event-one">
 
          
-          
+           <div class="event-one-one">
+          <div class="image">
+              <img src="/assets/myimages/Education_Fair_one.jpg" alt="">
+          </div>
+          <div class="text">
+              <h3>Pyhsical Education Fair</h3>
+              <p>9pm-12pm | 16 JUNE 2022</p>
+              <br>
+
+              <p>16 JUNE, 09:00 – 12:00 EAT
+              Location: Ubumwe Grande Hotel
+               Rwanda-Kigali</p>
+
+               <button><router-link to="Physical_education_fair" class="link">View More</router-link></button>
+               
+          </div>
+          </div>
 
       </div>
 
@@ -61,6 +77,8 @@
                
           </div>
           </div>
+          
+          
 
           <div class="event-one-one">
           <div class="image">
